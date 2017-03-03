@@ -22,6 +22,8 @@
     }
 </style>
 
+# Content calendars
+
 Also known as an editorial calendar, a content calendar is a tool to help you organise and plan the content you're going to publish. It helps you align the content you create with your content strategy and helps you plan the when and how of publishing (how often will you publish, through which channels, to which audiences, etc).
 
 It also gives a top-level view of all the content being published over time which is invaluable for strategy alignment and timing. Being able to visualise how your content is distributed throughout the year allows you to:
