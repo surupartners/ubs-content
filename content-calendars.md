@@ -1,4 +1,10 @@
+# Content calendars
+
 <style>
+    .h0, h1, h2, h3, h4, h5, h6 {
+        line-height: 1.1;
+    }
+
     .h0 {
         font-size: 40px;
         padding: 1em 0 !important;
@@ -8,6 +14,14 @@
         .h0 {
             font-size: 60px;
         }
+    }
+
+    .prose {
+        padding-top: 40px;
+    }
+
+    .prose h1:first-child {
+        display: none;
     }
 
     .prose blockquote {
@@ -21,8 +35,6 @@
         font-size: 1em;
     }
 </style>
-
-# Content calendars
 
 Also known as an editorial calendar, a content calendar is a tool to help you organise and plan the content you're going to publish. It helps you align the content you create with your content strategy and helps you plan the when and how of publishing (how often will you publish, through which channels, to which audiences, etc).
 
