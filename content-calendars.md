@@ -32,7 +32,7 @@
     }
 
     .prose blockquote p {
-        font-size: 1em;
+        font-size: 20px;
     }
 </style>
 
