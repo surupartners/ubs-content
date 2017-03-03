@@ -83,11 +83,13 @@ A content strategy should touch on these four core components:
 **Content-focused components**
 
 1) _Substance_ — What kind of content do we need (topics, types, sources, etc.), and what messages does content need to communicate to our audience?
+
 2) _Structure_ — How is content prioritized, organised, formatted, and displayed? (Structure can include communication planning, information architecture, metadata, data modelling, linking strategies, etc.)
 
 **People-focused components**
 
 3) _Workflow_ — What processes, tools, and human resources are required for content initiatives to launch successfully and maintain ongoing quality?
+
 4) _Governance_ — How are key decisions about content and content strategy made? How are changes initiated and communicated? Who manages content long-term?
 
 Usability.gov has [a good page](https://www.usability.gov/what-and-why/content-strategy.html) on getting started with content strategy if you want to learn more. I've also recently read ["A checklist for content work"](https://alistapart.com/article/a-checklist-for-content-work) and ["The discipline of content strategy"](https://alistapart.com/article/thedisciplineofcontentstrategy) which I would recommend.
