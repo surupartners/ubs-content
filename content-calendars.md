@@ -1,3 +1,27 @@
+<style>
+    .h0 {
+        font-size: 40px;
+        padding: 1em 0 !important;
+    }
+
+    @media (min-width: 52em) {
+        .h0 {
+            font-size: 60px;
+        }
+    }
+
+    .prose blockquote {
+        padding-left: 20px;
+        margin: 30px 0;
+        max-width: 100%;
+        line-height: 1.5;
+    }
+
+    .prose blockquote p {
+        font-size: 1em;
+    }
+</style>
+
 Also known as an editorial calendar, a content calendar is a tool to help you organise and plan the content you're going to publish. It helps you align the content you create with your content strategy and helps you plan the when and how of publishing (how often will you publish, through which channels, to which audiences, etc).
 
 It also gives a top-level view of all the content being published over time which is invaluable for strategy alignment and timing. Being able to visualise how your content is distributed throughout the year allows you to:
