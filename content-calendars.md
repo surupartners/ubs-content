@@ -1,5 +1,3 @@
-## Content calendars
-
 Also known as an editorial calendar, a content calendar is a tool to help you organise and plan the content you're going to publish. It helps you align the content you create with your content strategy and helps you plan the when and how of publishing (how often will you publish, through which channels, to which audiences, etc).
 
 It also gives a top-level view of all the content being published over time which is invaluable for strategy alignment and timing. Being able to visualise how your content is distributed throughout the year allows you to:
@@ -10,12 +8,12 @@ It also gives a top-level view of all the content being published over time whic
 
 Finally, it's a helpful tool to get your work done. Publishing and communications can be difficult and complex but a content calendar can help the work feel more manageable and reduce the stress involved making decisions around what to write and how and when publish it.
 
-### How to make one
+## How to make one
 Practically speaking, a content calendar can be anything from a [simple spreadsheet](https://docs.google.com/spreadsheets/d/1FtmTItkUjUFXMB6vhwSaATQo1AoC3yZwqooOQ4UZWHM/edit?usp=sharing) through to a [team todo list](https://asana.com/guide/examples/marketing/editorial-calendar) or even a [professional content planning tool](https://gathercontent.com/editorial-calendar). In our meeting we suggested using a [Basecamp todo list](https://basecamp.com/help/3/guides/projects/to-dos) for your content planning since you already have the tool and it will allow you to get others on the team involved in content creation and governance. If you do use Basecamp we'd recommend setting up a new "UBS Comms" project to keep it separate [from the others](https://3.basecamp.com/3225710/projects).
 
 We'd recommend making your calendar available to the team to demonstrate to those not involved in the editorial process that you have a measurable plan for content, and to make contributors within UBS aware that if they are late in providing information it could delay when content is published.
 
-### What to include
+## What to include
 
 How you design, share, and access your content calendar depends on your particular goals and available resources. But at the most fundamental level, we recommend that your content calendar include the following fields:
 
@@ -37,7 +35,7 @@ Depending on various factors — your specific goals, your team’s workflow
 
 It’s tempting to include every scrap of information you have but less is more here. List all of the variables/data points you think are relevant to your calendar, then rank them in priority order. Focus your calendar on the top priorities, and consider eliminating the bottom priorities to make your calendar easy to use and maintain.
 
-### Filling your content pipeline
+## Filling your content pipeline
 
 It can be challenging to make sure you have enough relevant ideas to fill whatever publishing schedule you're aiming for. Some content is timely — event updates, new courses published on the Learning Zone, etc — but there are also going to be evergreen topics which you can use to flesh out the spaces in-between. Paradoxically, these are also the sorts of topics which are (a) strategically important in terms of communicating organisational strategy and long-term concepts, and (b) easy to forget about when you're in the day to day since there's no external trigger to publish content on these topics.
 
@@ -49,7 +47,7 @@ To help with this, consider keeping a running list of content ideas within your 
 - Who might be available/qualified to author the piece
 - A time frame for when you will publish it
 
-### Define the purpose
+## Define the purpose
 
 It sounds like common sense, but the first step toward a successful content calendar is defining why you’re creating it. The purpose for your calendar may be a variation on one or more of these common themes (get as specific as possible):
 
@@ -75,7 +73,7 @@ As a reminder, from our write-up of the comms meeting in Swindon:
 
 You may also have other purposes in mind for your content calendar beyond those two broad points we discussed.
 
-### Content strategy — putting the tool in context
+## Content strategy — putting the tool in context
 Note that a content calendar is simply a planning tool. More fundamental to an organisation is a core _content strategy_ which helps you provide the right content, to the right people, at the right times, for the right reasons. Without a solid strategy guiding your content tactical efforts such as content calendars won't help your effectiveness.
 
 A content strategy should touch on these four core components:
