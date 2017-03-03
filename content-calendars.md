@@ -34,6 +34,10 @@
     .prose blockquote p {
         font-size: 20px;
     }
+
+    .prose li {
+        margin-bottom: 0.2em;
+    }
 </style>
 
 - Primarily for: Andrea Rhodes
