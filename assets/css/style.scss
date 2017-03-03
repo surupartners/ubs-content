@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
+.h0 {
+    font-size: 40px;
+    padding: 1em 0 !important;
+}
+
+@media (min-width: 52em) {
+    .h0 {
+        font-size: 60px;
+    }
+}
+
+
 .prose blockquote {
     padding-left: 20px;
     margin: 30px 0
